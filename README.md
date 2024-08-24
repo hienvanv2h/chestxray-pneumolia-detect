@@ -9,7 +9,9 @@
 Mạng nơ-ron tích chập (Convolutional Neural Network), hay còn được gọi là CNN hay ConvNet là một loại mạng nơ-ron sâu đặc biệt được thiết kế để xử lý dữ liệu có cấu trúc dạng lưới, chẳng hạn như hình ảnh. CNN đặc biệt mạnh mẽ trong việc phát hiện các đặc trưng không gian và học các mẫu từ dữ liệu đầu vào. Điều này khiến cho mô hình CNN đóng vai trò quan trọng và được áp dụng trong lĩnh vực nhận diện và phân loại ảnh.
 Hình ảnh được lưu trữ trong các thiết bị máy tính là ảnh số. Chúng được thể hiện dưới dạng một ma trận bao gồm vô số các điểm ảnh (pixel) mang các giá trị cường độ sáng khác nhau.
 
-![Biểu diễn ảnh số trên máy tính](https://github.com/user-attachments/assets/169a4d7e-095e-4f03-ade5-a7afc13996b8)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/169a4d7e-095e-4f03-ade5-a7afc13996b8" alt="Biểu diễn ảnh số trên máy tính" width="300"/>
+</div>
 
 Cấu trúc của một mạng CNN thường bao gồm một chuỗi các lớp chính sau: <br>
 
