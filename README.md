@@ -33,6 +33,10 @@ Cấu trúc của một mạng CNN thường bao gồm một chuỗi các lớp 
 
 Bộ dữ liệu được sắp xếp thành 3 thư mục (Train, Test, Val) và chứa các thư mục con cho từng loại hình ảnh (Bình thường/Viêm phổi do virus/Viêm phổi do vi khuẩn). Có khoảng gần 4500 hình ảnh X-quang (JPEG) đã được cân bằng số lượng giữa các lớp.
 
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/e2ea4898-ccd1-490b-b028-2efd7a75b698" alt="Ảnh minh họa phổi bệnh nhân (bình thường, viêm phổi do vi khuẩn, viêm phổi do virus)"> 
+</p>
+
 ## Hướng dẫn khởi chạy API
 
 Yêu cầu đã cài đặt **Anaconda** trên máy
