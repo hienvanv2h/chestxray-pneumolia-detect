@@ -10,7 +10,7 @@ Mạng nơ-ron tích chập (Convolutional Neural Network), hay còn được g�
 Hình ảnh được lưu trữ trong các thiết bị máy tính là ảnh số. Chúng được thể hiện dưới dạng một ma trận bao gồm vô số các điểm ảnh (pixel) mang các giá trị cường độ sáng khác nhau.
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/user-attachments/assets/169a4d7e-095e-4f03-ade5-a7afc13996b8" alt="Biểu diễn ảnh số trên máy tính"> 
+    <img width="33%" src="https://github.com/user-attachments/assets/169a4d7e-095e-4f03-ade5-a7afc13996b8" alt="Biểu diễn ảnh số trên máy tính"> 
 </p>
 
 Cấu trúc của một mạng CNN thường bao gồm một chuỗi các lớp chính sau: <br>
@@ -25,7 +25,9 @@ Cấu trúc của một mạng CNN thường bao gồm một chuỗi các lớp 
 
 - Output Layer (Lớp đầu ra): Lớp này tạo ra đầu ra cuối cùng của mạng, với số lượng đơn vị (neurons) phù hợp với số lượng lớp nhãn (classes).
 
-"![Minh họa các lớp trong mạng CNN]"
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/95c8f577-ec5a-4b30-b890-a30b699b2efb" alt="Minh họa các lớp trong mạng CNN"> 
+</p>
 
 ## Mô tả về tập dữ liệu
 
